@@ -165,4 +165,5 @@ Muhammad Ali            github.com/M-Ali-i
 Muhammad Tayyab Umair   github.com/tayyabumairr
 Muhammad Mueez          github.com/muhammad-mueez13
 Minahil Nadeem          github.com/MinahilNadeemm
+Komal Shehbaz           github.com/KomalShehbaz
 
