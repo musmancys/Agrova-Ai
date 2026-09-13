@@ -1611,9 +1611,9 @@
     // Seamlessly connects to FastAPI backend:
     // If served by FastAPI directly or on same domain, relative path '' is used.
     // If opened directly via file:// or another static host, defaults to http://localhost:8000.
-    const API_BASE = (window.location.protocol.startsWith('http') && window.location.port !== '')
-      ? '' 
-      : 'http://localhost:8000';
+    const API_BASE = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
+  ? 'http://localhost:8000'
+  : '';
 
     // ---------- SPLASH SCREEN ----------
     window.addEventListener('load', () => {
