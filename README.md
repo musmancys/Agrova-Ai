@@ -164,4 +164,5 @@ Muhammad Usman          github.com/musmancys
 Muhammad Ali            github.com/M-Ali-i
 Muhammad Tayyab Umair   github.com/tayyabumairr
 Muhammad Mueez          github.com/muhammad-mueez13
+Minahil Nadeem          github.com/MinahilNadeemm
 
